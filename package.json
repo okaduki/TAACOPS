@@ -1,0 +1,19 @@
+{
+  "name": "taacops",
+  "version": "1.0.0",
+  "description": "Solution for TAACOPS",
+  "scripts": {
+    "build": "gitbook build src docs",
+    "serve": "gitbook serve src docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okaduki/TAACOPS.git"
+  },
+  "author": "okaduki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okaduki/TAACOPS/issues"
+  },
+  "homepage": "https://github.com/okaduki/TAACOPS#readme"
+}

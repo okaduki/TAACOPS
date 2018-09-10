@@ -1,3 +1,4 @@
 {
-    "plugins": ["katex"]
+    "plugins": ["katex"],
+    "title" : "TAACOPS"
 }
