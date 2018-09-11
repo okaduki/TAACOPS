@@ -1,4 +1,6 @@
 {
     "plugins": ["katex"],
-    "title" : "TAACOPS"
+    "title" : "TAACOPS",
+    "ignores" : ["node_modules"],
+    "disableTitleFormatting": true
 }

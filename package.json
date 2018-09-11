@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Solution for TAACOPS",
   "scripts": {
-    "build": "gitbook build src docs",
+    "build": "( cd src && book sm ) && gitbook build src docs",
     "serve": "gitbook serve src docs"
   },
   "repository": {
