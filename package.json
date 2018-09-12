@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Solution for TAACOPS",
   "scripts": {
-    "build": "( cd src && book sm ) && gitbook build src docs",
+    "build": "( cd src && gitbook install && book sm && cd .. ) && gitbook build src docs",
     "serve": "gitbook serve src docs"
   },
   "repository": {
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/okaduki/TAACOPS/issues"
   },
-  "homepage": "https://github.com/okaduki/TAACOPS#readme"
+  "homepage": "https://github.com/okaduki/TAACOPS#readme",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2",
+    "gitbook-summary": "^1.2.2"
+  }
 }
