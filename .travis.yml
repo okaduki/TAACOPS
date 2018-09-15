@@ -1,0 +1,25 @@
+language: node_js
+branches:
+  only:
+    - docs
+node_js:
+  - "7"
+cache:
+  directories:
+    - "node_modules"
+    - "src/node_modules"
+before_install:
+  - openssl aes-256-cbc -K $encrypted_dce4190560e5_key -iv $encrypted_dce4190560e5_iv -in travis_rsa.enc -out travis_rsa -d
+  - cp .travis_rsa ~/.ssh/id_rsa
+  - chmod 0600 ~/.ssh/id_rsa
+  - git config --global user.name okaduki
+  - git config --global user.email "okaduki1@gmail.com"
+install:
+  - npm install
+script:
+  - git checkout master
+  - git merge -no-commit docs
+  - npm build
+  - git add .
+  - git commit -m "Commit by Travis CI (JOB $TRAVIS_JOB_NUMBER)"
+  - git push origin master
