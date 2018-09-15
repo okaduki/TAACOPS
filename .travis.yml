@@ -17,9 +17,8 @@ before_install:
 install:
   - npm install
 script:
-  - git checkout --track master
-  - git merge --no-commit docs
   - npm build
+  - git init
   - git add .
   - git commit -m "Commit by Travis CI (JOB $TRAVIS_JOB_NUMBER)"
-  - git push origin master
+  - git push -f git@github.com:okaduki/TAACOPS.git master:master
