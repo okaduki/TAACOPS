@@ -9,6 +9,11 @@ See https://okaduki.github.io/TAACOPS/ .
 
 Documents are in the docs branch.
 
+# これは何?
+
+｢エレガントな問題解決｣の第2版の解答です。
+分かったところだけ埋めていきます。
+
 ## Requirements
 
 * gitbook-cli
