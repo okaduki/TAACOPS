@@ -18,6 +18,7 @@
   "homepage": "https://github.com/okaduki/TAACOPS#readme",
   "dependencies": {
     "gitbook-cli": "^2.3.2",
-    "gitbook-summary": "^1.2.2"
+    "gitbook-summary": "^1.2.2",
+    "npm": "^6.4.1"
   }
 }
