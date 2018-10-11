@@ -2,5 +2,8 @@
     "plugins": ["katex", "expandable-chapters"],
     "title" : "TAACOPS",
     "ignores" : ["node_modules"],
-    "disableTitleFormatting": true
+    "disableTitleFormatting": true,
+    "styles": {
+        "website" : "website.css"
+    }
 }
