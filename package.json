@@ -19,6 +19,6 @@
   "dependencies": {
     "gitbook-cli": "^2.3.2",
     "gitbook-summary": "^1.2.2",
-    "npm": "^6.13.4"
+    "npm": "^6.14.6"
   }
 }
