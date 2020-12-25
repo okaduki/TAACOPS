@@ -1,0 +1,8 @@
+version: '3'
+services:
+  taacops:
+    build: .
+    container_name: taacops
+    volumes:
+     - ./src:/usr/src/taacops/src
+     - ./docs:/usr/src/taacops/docs
