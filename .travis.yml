@@ -4,6 +4,10 @@ branches:
     - docs
 node_js:
   - "node"
+addons:
+  apt:
+    packages:
+    - fonts-ipafont
 cache:
   directories:
     - "node_modules"

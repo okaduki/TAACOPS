@@ -1,0 +1,58 @@
+# TAACOPS
+
+* chapter2
+  * section2
+    * [2-2-09](chapter2/section2/2-2-09.md)
+    * [2-2-10](chapter2/section2/2-2-10.md)
+    * [2-2-11](chapter2/section2/2-2-11.md)
+    * [2-2-12](chapter2/section2/2-2-12.md)
+    * [2-2-13](chapter2/section2/2-2-13.md)
+    * [2-2-14](chapter2/section2/2-2-14.md)
+    * [2-2-15](chapter2/section2/2-2-15.md)
+    * [2-2-16](chapter2/section2/2-2-16.md)
+    * [2-2-17](chapter2/section2/2-2-17.md)
+    * [2-2-18](chapter2/section2/2-2-18.md)
+    * [2-2-19](chapter2/section2/2-2-19.md)
+    * [2-2-20](chapter2/section2/2-2-20.md)
+    * [2-2-21](chapter2/section2/2-2-21.md)
+    * [2-2-22](chapter2/section2/2-2-22.md)
+    * [2-2-23](chapter2/section2/2-2-23.md)
+    * [2-2-24](chapter2/section2/2-2-24.md)
+    * [2-2-25](chapter2/section2/2-2-25.md)
+    * [2-2-26](chapter2/section2/2-2-26.md)
+    * [2-2-27](chapter2/section2/2-2-27.md)
+    * [2-2-28](chapter2/section2/2-2-28.md)
+    * [2-2-29](chapter2/section2/2-2-29.md)
+    * [2-2-32](chapter2/section2/2-2-32.md)
+  * section3
+    * [2-3-11](chapter2/section3/2-3-11.md)
+    * [2-3-12](chapter2/section3/2-3-12.md)
+    * [2-3-13](chapter2/section3/2-3-13.md)
+    * [2-3-14](chapter2/section3/2-3-14.md)
+    * [2-3-15](chapter2/section3/2-3-15.md)
+    * [2-3-16](chapter2/section3/2-3-16.md)
+    * [2-3-17](chapter2/section3/2-3-17.md)
+    * [2-3-18](chapter2/section3/2-3-18.md)
+    * [2-3-20](chapter2/section3/2-3-20.md)
+    * [2-3-22](chapter2/section3/2-3-22.md)
+    * [2-3-23](chapter2/section3/2-3-23.md)
+    * [2-3-26](chapter2/section3/2-3-26.md)
+    * [2-3-32](chapter2/section3/2-3-32.md)
+* chapter4
+  * section3
+    * [4-3-8](chapter4/section3/4-3-8.md)
+* chapter6
+  * section1
+    * [6-1-20](chapter6/section1/6-1-20.md)
+    * [6-1-21](chapter6/section1/6-1-21.md)
+    * [6-1-22](chapter6/section1/6-1-22.md)
+    * [6-1-23](chapter6/section1/6-1-23.md)
+    * [6-1-24](chapter6/section1/6-1-24.md)
+    * [6-1-25](chapter6/section1/6-1-25.md)
+    * [6-1-26](chapter6/section1/6-1-26.md)
+    * [6-1-27](chapter6/section1/6-1-27.md)
+    * [6-1-28](chapter6/section1/6-1-28.md)
+    * [6-1-29](chapter6/section1/6-1-29.md)
+  * section2
+    * [6-2-10](chapter6/section2/6-2-10.md)
+    * [6-2-18](chapter6/section2/6-2-18.md)

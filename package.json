@@ -16,8 +16,9 @@
   },
   "homepage": "https://github.com/okaduki/TAACOPS#readme",
   "devDependencies": {
-    "gitbook-plugin-expandable-chapters": "^0.2.0",
-    "gitbook-plugin-katex": "^1.1.4",
+    "gitbook-plugin-collapsible-chapters": "^0.1.8",
+    "gitbook-plugin-katex-ng": "^2.0.0",
     "honkit": "^3.6.16"
-  }
+  },
+  "dependencies": {}
 }

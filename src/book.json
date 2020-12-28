@@ -1,9 +1,10 @@
 {
-    "plugins": ["katex", "expandable-chapters"],
+    "plugins": ["katex-ng", "collapsible-chapters"],
     "title" : "TAACOPS",
     "ignores" : ["node_modules"],
     "disableTitleFormatting": true,
     "styles": {
         "website" : "website.css"
-    }
+    },
+    "language": "ja"
 }
