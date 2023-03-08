@@ -18,7 +18,7 @@
   "devDependencies": {
     "gitbook-plugin-collapsible-chapters": "^0.1.8",
     "gitbook-plugin-katex-ng": "^2.0.0",
-    "honkit": "^3.6.16"
+    "honkit": "^4.0.4"
   },
   "dependencies": {}
 }
